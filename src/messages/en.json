@@ -1,0 +1,192 @@
+{
+  "HomePage": {
+    "title": "Jamia Kafilia Sunnia Model Madrasa & Orphanage",
+    "hero": {
+      "naraye_takbir": "Naraye Takbir - Allahu Akbar",
+      "naraye_risalat": "Naraye Risalat - Ya Rasool Allah (Saw)",
+      "bismillah": "بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "headline_bn": "Jamia Kafilia Sunnia Model Madrasa & Orphanage",
+      "sticky_title": "Jamia Kafilia Sunnia",
+      "sticky_subtitle": "Model Madrasa and Orphanage",
+      "subheadline_bn": "Sherpur district's largest Sunni institution, unique in Madrasa education...",
+      "english_title": "Jamia Kafilia Sunnia Model Madrasa and Orphanage",
+      "arabic_title": "ٱلْجَامِعَةُ ٱلْكَفِيلِيَّةُ ٱلسُّنِّيَّةُ ٱلنَّمُوذَجِيَّةُ وَمَأْوَىٰ ٱلْأَيْتَامِ",
+      "address": "Vatshala, Sherpur Sadar, Sherpur.",
+      "mobile_label": "Mobile:",
+      "mobile_numbers": "01810423231, 01311-042090, 01892212719, 01912986352",
+      "cta": "Learn More"
+    }
+  },
+
+  "Home": {
+    "hero": {
+      "since_badge": "Since 2021",
+      "title_line1": "Jamia Kafilia Sunnia",
+      "title_line2": "Model Madrasa",
+      "description": "Building a brighter future through Islamic education and compassionate care for the orphaned and needy.",
+      "cta_learn": "Learn More",
+      "cta_contact": "Contact Us"
+    },
+    "ticker": {
+      "items": [
+        "✨ Admissions open for the 2026 academic session - Apply Now!",
+        "🌙 Ramzan food drive distribution starts next Monday.",
+        "📢 Annual Sports Day has been rescheduled to March 17th.",
+        "🏆 Congratulations to our Hifz students for winning the district competition."
+      ]
+    },
+    "about": {
+      "badge": "Who We Are",
+      "title": "A Center for Knowledge & Spiritual Growth",
+      "description1": "Since our inception, Jamia Kafilia Sunnia has been dedicated to blending traditional Islamic values with modern educational standards. We believe in empowering the next generation with the tools they need to succeed in both this world and the hereafter.",
+      "description2": "Our campus provides a serene environment for learning, with dedicated facilities for Hifz, Alim courses, and general education, alongside our commitment to sheltering and educating orphans free of cost.",
+      "bullets": {
+        "1": "Qualified Scholars & Teachers",
+        "2": "Holistic Development Curriculum",
+        "3": "Safe & Nurturing Environment"
+      },
+      "cta": "Read Our Full History",
+      "stats": {
+        "students_count": "1000+",
+        "students_label": "Students Enrolled",
+        "orphans_count": "200+",
+        "orphans_label": "Orphans Supported",
+        "teachers_count": "50+",
+        "teachers_label": "Certified Teachers",
+        "years_count": "25+",
+        "years_label": "Years of Excellence"
+      },
+      "badge_registered": "Registered",
+      "badge_govt": "Govt. Approved"
+    },
+    "founder": {
+      "badge": "Founder's Message",
+      "quote": "Service to humanity is service to Allah.",
+      "description": "We established Jamia Kafilia with a vision to create a sanctuary where knowledge meets compassion. Our goal is not just to teach, but to nurture souls that will brighten the world with their character and service. Every child here is a trust from Allah, and we strive to honor that trust every day.",
+      "name": "Hazrat Allama [Founder Name]",
+      "title": "Founder & Principal"
+    },
+    "programs": {
+      "title": "Our Institutes & Programs",
+      "subtitle": "Providing comprehensive Islamic and modern education to nurture future leaders.",
+      "view_details": "View Details",
+      "hifz": {
+        "title": "Hifz-ul-Quran",
+        "description": "A dedicated program for memorizing the Holy Quran with proper Tajweed under expert Huffaz."
+      },
+      "alim": {
+        "title": "Alim Course",
+        "description": "Comprehensive Islamic scholarship program covering Hadith, Fiqh, and Arabic literature."
+      },
+      "primary": {
+        "title": "Primary School",
+        "description": "Modern academic curriculum (Math, Science, English) integrated with moral values."
+      },
+      "orphanage": {
+        "badge": "Support Needed",
+        "title": "Orphanage",
+        "description": "Complete care, shelter, and education for orphans. Be their sponsor today.",
+        "cta": "Sponsor an Orphan"
+      }
+    },
+    "activities": {
+      "badge": "Student Life",
+      "title": "Beyond the Classroom",
+      "description": "Education at Jamia Kafilia goes beyond textbooks. We engage our students in a variety of extracurricular activities to build character, leadership, and physical well-being. From debates to sports, our students shine in every field.",
+      "sports": {
+        "title": "Sports",
+        "desc": "Football, Cricket, & Badminton tournaments."
+      },
+      "speaking": {
+        "title": "Public Speaking",
+        "desc": "Weekly debates and Naat competitions."
+      },
+      "service": {
+        "title": "Community Service",
+        "desc": "Cleaning drives and helping the needy."
+      },
+      "arts": {
+        "title": "Arts & Calligraphy",
+        "desc": "Developing creative Islamic arts."
+      }
+    },
+    "events": {
+      "title": "Upcoming Events",
+      "view_all": "View All Events",
+      "join_us": "Join Us",
+      "1": {
+        "month": "Mar",
+        "day": "15",
+        "title": "Annual Sports Day",
+        "time": "Main Playground, 9:00 AM"
+      },
+      "2": {
+        "month": "Apr",
+        "day": "02",
+        "title": "Pre-Ramzan Talk",
+        "time": "School Auditorium, 5:00 PM"
+      },
+      "3": {
+        "month": "May",
+        "day": "20",
+        "title": "Annual Prize Giving",
+        "time": "Main Hall, 10:00 AM"
+      }
+    },
+    "gallery": {
+      "title": "Life at Jamia Kafilia",
+      "captions": {
+        "prayer": "Morning Prayer",
+        "view_full": "View Full Gallery"
+      }
+    },
+    "final_cta": {
+      "title": "Your Contribution Can Change a Life",
+      "subtitle": "Join our mission to provide education, food, and shelter to those who need it most. Every donation counts towards building a better Ummah.",
+      "donate_button": "Donate Now",
+      "sponsor_button": "Become a Sponsor"
+    }
+  },
+
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "Footer": {
+    "institution_name": "Jamia Kafilia Sunnia Model Madrasa and Orphanage",
+    "description": "A beacon of Islamic and modern education since 1999. Dedicated to nurturing the next generation of scholars and responsible citizens.",
+    "quick_links_title": "Quick Links",
+    "quick_links": {
+      "about": "About Us",
+      "admissions": "Admissions",
+      "scholars": "Our Scholars",
+      "donation_methods": "Donation Methods",
+      "contact": "Contact Support"
+    },
+    "programs_title": "Programs",
+    "programs": {
+      "hifz": "Hifz-ul-Quran",
+      "alim": "Alim Course",
+      "orphan_care": "Orphan Care",
+      "primary_education": "Primary Education",
+      "ramzan_drives": "Ramzan Drives"
+    },
+    "contact_title": "Contact Us",
+    "address": "Vatshala, Sherpur Sadar, Sherpur",
+    "phones": [
+      "01810423231",
+      "01311-082090",
+      "01892222919",
+      "01912986352"
+    ],
+    "email": "info@jamiakafilia.org",
+    "copyright": "All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "powered_by": "Powered by",
+    "brainicon": "Brainicon Technology"
+  }
+}
