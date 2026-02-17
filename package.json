@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx @tailwindcss/cli -i ./src/app/globals.css -o ./src/app/globals.output.css && sed -i '' \"s/&#x27;/'/g\" ./src/app/globals.output.css && next build",
+    "build": "npx @tailwindcss/cli -i ./src/app/globals.css -o ./src/app/globals.output.css && node scripts/fix-css.js && next build",
     "start": "next start",
     "lint": "eslint"
   },
